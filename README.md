@@ -1,3 +1,2 @@
-
-
-<src='img/sf.png'>
+![GitHun Logo](img/sf.png)
+Format: [Alt Text](url)
