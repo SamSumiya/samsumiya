@@ -1,3 +1,3 @@
-![](img/sf.png = 250px)
+![](img/sf.png)
 Format: ![sf](url)
 
