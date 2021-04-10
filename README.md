@@ -1,3 +1,2 @@
-![](img/sf.png)
-Format: ![sf](url)
+<img src='img/sf.png' alt='bridge' width= 250px>
 
