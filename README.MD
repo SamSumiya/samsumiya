@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenerychen&show_icons=true&theme=dracula)
-]
+(https://github-readme-stats.vercel.app/api?username=chenerychen&show_icons=true&theme=dracula)
+
 <img src="" alt='' >
 
 <h1>About Me</h1>  
