@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenerychen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenerychen&hide=html&layout=compact)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenerychen&show_icons=true&theme=dracula)
