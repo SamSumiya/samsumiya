@@ -1,7 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenerychen&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsumiya&hide=html&layout=compact)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenerychen&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsumiya&show_icons=true&theme=dracula)
 
 <img src="" alt='' >
 
