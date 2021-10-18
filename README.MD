@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsumiya&hide=html&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsumiya&hide=html&layout=compact)
+ -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsumiya&show_icons=true&theme=dracula)
 
