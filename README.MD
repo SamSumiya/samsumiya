@@ -5,8 +5,16 @@
 
 <img src="" alt='' >
 
-<h1>About Me</h1>  
-<h3>Hi, I am Sam</h3>
-<h3>I am a full stack JavaScript software engineer proficient in React, Redux, Node.js and PostgreSQL</h3>
-<h3>Recently, I have been studying Typescript and MongoDB. In my free time, I train and compete in kickboxing🥊</h3>
+Hi - I'm Sam Sumiya a software engineer. I have an undergraduate degree in Law and a Masters in International Relations. Professionally I worked as an agency recruiter in Tokyo working with Japanese and English candidates and organizations and when I moved to the Bay Area in 2019, I soon realized my dream of becoming a software developer. I have spent the past year and a bit focused on becoming a software engineer and study a lot in my free time new concepts beyond the course material I was taught and am ready to jump head first to help an organization scale. 
+
+When I am learning something new. In my free time I love to check out new places to eat with my friends and also practice kickboxing ~ ask me about my professional fight in Thailand, I'd love to tell you more.
+
+* Languages: JavaScript, Ruby, HTML, CSS
+* Framework: React.js, Redux, Node.js, Express.js, Ruby on Rails
+* Styles: Bootstrap
+* Version Control: Git
+* Test: Jest, QUnit, Github CI
+* Authentication:  Passport.js, Bcrypt, OAuth, JWT
+* Database: SQL, Postgres, MongoDB, Redis
+* Cloud Service: Google Map API, AWS S3
 
