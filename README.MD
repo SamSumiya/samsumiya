@@ -10,8 +10,7 @@
 When I am learning something new. In my free time I love to check out new places to eat with my friends and also practice kickboxing ~ ask me about my professional fight in Thailand, I'd love to tell you more.
 
 * Languages: JavaScript, Ruby, HTML, CSS
-* Framework: React.js, Redux, Node.js, Express.js, Ruby on Rails
-* Styles: Bootstrap
+* Framework: React, Redux, Node.js, Express.js, Ruby on Rails
 * Version Control: Git
 * Test: Jest, QUnit, Github CI
 * Authentication:  Passport.js, Bcrypt, OAuth, JWT
