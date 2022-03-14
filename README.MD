@@ -7,11 +7,10 @@
 
 When I am learning something new. In my free time I love to check out new places to eat with my friends and also practice kickboxing ~ ask me about my professional fight in Thailand, I'd love to tell you more.
 
-* Languages: JavaScript, Ruby, HTML, CSS
+* Languages: JavaScript, HTML, CSS
 * Framework: React, Redux, Node.js, Express.js,
 * Version Control: Git
 * Test: Jest, QUnit, Github CI
-* Authentication:  Passport.js, Bcrypt, OAuth, JWT
-* Database: SQL, Postgres, MongoDB, Redis
-* Cloud Service: Google Map API, AWS S3
+* Authentication: Bcrypt, OAuth, JWT
+* Database: SQL, Postgres, MongoDB, 
 
