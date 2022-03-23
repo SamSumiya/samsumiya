@@ -7,8 +7,6 @@
 Hi - I'm Sam Sumiya 👋 a software engineer. I have an undergraduate degree in Law and a Masters in International Relations. Professionally I worked as an agency recruiter in Tokyo working with Japanese and English candidates and organizations and when I moved to the Bay Area in 2019, I soon realized my dream of becoming a software developer.
 </p2>
 
-When I am learning something new. In my free time I love to check out new places to eat with my friends and also practice kickboxing ~ ask me about my professional fight in Thailand, I'd love to tell you more.
-
 * Languages: JavaScript, HTML, CSS
 * Framework: React, Redux, Node.js, Express.js,
 * Version Control: Git
